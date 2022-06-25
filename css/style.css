@@ -257,7 +257,7 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url("../images/chris_banner.jpg") ;
+	background: url("/images/chris_banner.jpg") ;
 	background-size: cover;
 }
 .banner-content{
@@ -371,7 +371,7 @@ h2.title{
 
 .profile-bg {
     background-color: transparent;
-    background: url("../images/chris_3.jpg");
+    background: url("/images/chris_3.jpg");
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
